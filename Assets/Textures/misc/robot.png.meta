@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: af9273a4c06c2f94c9fd59e80258596d
+guid: af23dd1092c61dd45a40b67b60e65f05
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: robot_0
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +41,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,11 +116,61 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: robot_0
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 235
+        width: 217
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -199.5}
+        - {x: -90.5, y: -204.5}
+        - {x: -87.5, y: -180.5}
+        - {x: -60.5, y: -182.5}
+        - {x: -32.5, y: -111.5}
+        - {x: -35.5, y: -72.5}
+        - {x: -108.5, y: -76.5}
+        - {x: -67.5, y: -34.5}
+        - {x: -13.5, y: -5.5}
+        - {x: -9.5, y: 16.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 27.5, y: -9.5}
+        - {x: 61.5, y: -28.5}
+        - {x: 81.5, y: -68.5}
+        - {x: 101.5, y: -74.5}
+        - {x: 94.5, y: -109.5}
+        - {x: 91.5, y: -78.5}
+        - {x: 78.5, y: -80.5}
+        - {x: 66.5, y: -87.5}
+        - {x: 66.5, y: -96.5}
+        - {x: 75.5, y: -120.5}
+        - {x: 53.5, y: -97.5}
+        - {x: 69.5, y: -78.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 47.5, y: -54.5}
+        - {x: 32.5, y: -39.5}
+        - {x: 15.5, y: -103.5}
+        - {x: 6.5, y: -175.5}
+        - {x: 40.5, y: -177.5}
+        - {x: 43.5, y: -200.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ab231b7b08f246aebac0fe998d8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 73a8017e786181d42a69b7676ec6cbcc
     vertices: []
     indices: 
     edges: []
